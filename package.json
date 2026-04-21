@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
 "dependencies": {
-  "next": "^16.2.3",
+  "next": "^16.2.4",
   "opencage-api-client": "^2.1.0",
   "react": "^19.2.5",
   "react-dom": "^19.2.5",
@@ -22,9 +22,9 @@
     "@types/react-dom": "^19",
     "autoprefixer": "^10.5.0",
     "eslint": "^10",
-    "eslint-config-next": "^16.2.3",
+    "eslint-config-next": "^16.2.4",
     "postcss": "^8",
-    "tailwindcss": "^4.2.2",
+    "tailwindcss": "^4.2.3",
     "typescript": "^6"
   },
   "overrides": {
